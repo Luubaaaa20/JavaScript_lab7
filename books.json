@@ -1,0 +1,14 @@
+{
+  "category": {
+    "id": 1,
+    "name": "Книги",
+    "shortname": "books",
+    "notes": "Lorem ipsum"
+  },
+  "items": [
+    { "id": 1, "name": "Пригоди Шерлока Холмса", "shortname": "sherlock",          "description": "Класичний детектив Артура Конан Дойля.",    "price": "10€" },
+    { "id": 2, "name": "1984",                     "shortname": "1984",              "description": "Антиутопія Джорджа Оруелла.",             "price": "12€" },
+    { "id": 3, "name": "Майстер і Маргарита",      "shortname": "master-margarita",  "description": "Роман Михайла Булгакова.",               "price": "15€" },
+    { "id": 4, "name": "Алхімік",                  "shortname": "alchemist",         "description": "Мотивуюча історія Пауло Коельйо.",        "price": "11€" }
+  ]
+}
