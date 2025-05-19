@@ -1,0 +1,15 @@
+{
+  "category": {
+    "id": 2,
+    "name": "Косметика",
+    "shortname": "cosmetics",
+    "notes": ""
+  },
+  "items": [
+    { "id": 1, "name": "Тональний крем",   "shortname": "foundation",  "description": "Ніжна текстура, стійке покриття.",          "price": "25€" },
+    { "id": 2, "name": "Помада",            "shortname": "lipstick",    "description": "Матове фінішування, насичений колір.",      "price": "18€" },
+    { "id": 3, "name": "Туш для вій",       "shortname": "mascara",     "description": "Обʼємні та довгі вії за одну мить.",        "price": "15€" },
+    { "id": 4, "name": "Румʼяна",           "shortname": "blush",       "description": "Натуральний румʼянець без ефекту “маски”.", "price": "12€" },
+    { "id": 5, "name": "Пудра компактна",   "shortname": "powder",      "description": "Фіксує макіяж, вирівнює тон шкіри.",        "price": "14€" }
+  ]
+}
