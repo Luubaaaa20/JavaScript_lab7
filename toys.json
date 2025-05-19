@@ -1,0 +1,51 @@
+{
+    "category": {
+      "id": 4,
+      "name": "Іграшки",
+      "shortname": "toys",
+      "notes": ""
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Конструктор LEGO",
+        "shortname": "lego",
+        "description": "Набір блоків для будівництва моделей.",
+        "price": "30€",
+        "image": "image/лєго.webp"
+      },
+      {
+        "id": 2,
+        "name": "Плюшевий ведмедик",
+        "shortname": "teddy-bear",
+        "description": "М’яка іграшка висотою 25 см.",
+        "price": "18€",
+        "image": "image/ведмедик.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Пазл 1000 ел.",
+        "shortname": "puzzle-1000",
+        "description": "Захоплюючий пазл із картинкою природи.",
+        "price": "12€",
+        "image": "image/пазл.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Радіокерована машинка",
+        "shortname": "rc-car",
+        "description": "Машинка із дистанційним керуванням.",
+        "price": "40€",
+        "image": "image/машинка.webp"
+      },
+      {
+        "id": 5,
+        "name": "Настільна гра “Монополія”",
+        "shortname": "board-game",
+        "description": "Стратегічна гра для всієї родини.",
+        "price": "25€",
+        "image": "image/монополія.jpeg"
+      }
+    ]
+  }
+  

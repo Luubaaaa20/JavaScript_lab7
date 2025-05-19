@@ -1,0 +1,51 @@
+{
+    "category": {
+      "id": 3,
+      "name": "Спорт",
+      "shortname": "sport",
+      "notes": "Lorem ipsum"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Футбольний м’яч",
+        "shortname": "football",
+        "description": "Розмір 5, стандарты FIFA.",
+        "price": "30€",
+        "image": "image/футбольний_мяч.webp"
+      },
+      {
+        "id": 2,
+        "name": "Бігові кросівки",
+        "shortname": "running-shoes",
+        "description": "Легкі, амортизація для довгих дистанцій.",
+        "price": "80€",
+        "image": "image/кросівки.jpeg"
+      },
+      {
+        "id": 3,
+        "name": "Гантелі (2×5 кг)",
+        "shortname": "dumbbells",
+        "description": "Металеві, зручні рукояті.",
+        "price": "40€",
+        "image": "image/гантелі.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Килимок для йоги",
+        "shortname": "yoga-mat",
+        "description": "Антислизький, товщина 6 мм.",
+        "price": "20€",
+        "image": "image/килимок.webp"
+      },
+      {
+        "id": 5,
+        "name": "Рюкзак для спорту",
+        "shortname": "sport-backpack",
+        "description": "Водонепроникний, місткий.",
+        "price": "35€",
+        "image": "image/рюкзак.webp"
+      }
+    ]
+  }
+  

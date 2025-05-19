@@ -1,0 +1,27 @@
+[
+    { 
+        "id": 1, 
+        "name": "Книги",     
+        "shortname": "books",      
+        "notes": "Вибрані бестселери" 
+    },
+    { 
+        "id": 2, 
+        "name": "Косметика", 
+         "shortname": "cosmetics",  
+         "notes": "" 
+        },
+    { 
+        "id": 3, 
+        "name": "Спорт",  
+        "shortname": "sport",     
+        "notes": "Lorem ipsum" 
+    },
+    { 
+        "id": 4, 
+        "name": "Іграшки",    
+        "shortname": "toys",       
+        "notes": "" 
+    }
+  ]
+  
